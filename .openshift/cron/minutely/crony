@@ -1,0 +1,3 @@
+#!/bin/bash
+curl http://selfoss-vims.rhcloud.com/update
+
